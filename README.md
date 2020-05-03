@@ -68,7 +68,7 @@ touch plugins/apollo-error-handler.js
 
 ```javascript
 /* eslint-disable no-console */
-export default (error, nuxtContext) => {
+export default (error) => {
   console.log('Global error handler')
   console.error(error)
 }
