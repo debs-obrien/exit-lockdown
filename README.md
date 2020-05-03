@@ -111,7 +111,7 @@ export default {
 }
 ```
 
-That's all you need. You should now have your Hasura endpoint and your application making a query to view the data. Have fun
+That's all you need. You should now have your Hasura endpoint and your application making a query to view the data which you can now display in your template. Have fun
 
 ## Build Setup
 
